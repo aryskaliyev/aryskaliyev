@@ -1,5 +1,6 @@
 ### Hi there 👋, I am @aryskaliyev
-
+---
+I am an engineer & entrepreneur.
 <!--
 **aryskaliyev/aryskaliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
